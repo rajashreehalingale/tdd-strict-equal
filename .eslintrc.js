@@ -1,5 +1,7 @@
+/* eslint-disable */
 module.exports = {
-  "env": {
+  "root": true,
+  'env': {
     "es6": true,
     "node": true,
   },
